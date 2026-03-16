@@ -1,4 +1,4 @@
-# mkxp-z
+# mkxp-z-3ds
 
 <p align="center"><b>
   <a href="https://github.com/mkxp-z/mkxp-z/actions/workflows/autobuild.yml?query=event%3Apush">Automatic Builds</a>
